@@ -1,6 +1,6 @@
-#include "SceneManager.h"
+#include "../Scene/SceneManager.h"
 #include "Blast.h"
-#include "Vector2.h"
+#include "../Vector2.h"
 #include <string>
 #include <DxLib.h>
 

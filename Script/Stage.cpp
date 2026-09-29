@@ -4,7 +4,7 @@
 #include "fstream"
 #include "sstream"
 #include "Vector2.h"
-#include "GameScene.h"
+#include "Scene/GameScene.h"
 
 Stage::Stage(void)
 {

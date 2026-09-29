@@ -5,11 +5,11 @@
 #include "Player.h"
 #include "Shot.h"
 #include "Blast.h"
-#include "GameScene.h"
-#include "Application.h"
-#include "stage.h"
-#include "InputManager.h"
-#include "Utility.h"
+#include "../Scene/GameScene.h"
+#include "../Application.h"
+#include "../stage.h"
+#include "../InputManager.h"
+#include "../Utility.h"
 #include <string>
 
 

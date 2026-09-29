@@ -1,7 +1,7 @@
 #pragma once
-#include "Vector2.h"
-#include "Vector2F.h"
-#include "Utility.h"
+#include "../Vector2.h"
+#include "../Vector2F.h"
+#include "../Utility.h"
 class GameScene;
 class Blast;
 

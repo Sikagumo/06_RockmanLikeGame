@@ -1,6 +1,6 @@
 #include <DxLib.h>
 #include "InputManager.h"
-#include "SceneManager.h"
+#include "Scene/SceneManager.h"
 #include "Application.h"
 #include "FrameRate.h"
 

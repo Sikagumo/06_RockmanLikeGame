@@ -1,8 +1,8 @@
-#include "Stage.h"
+#include "../Stage.h"
 #include "GameScene.h"
-#include "Player.h"
-#include "Blast.h"
-#include "InputManager.h"
+#include "../Player/Player.h"
+#include "../Player/Blast.h"
+#include "../InputManager.h"
 
 GameScene::GameScene(void)
 {

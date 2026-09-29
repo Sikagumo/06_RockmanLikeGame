@@ -1,6 +1,6 @@
 #pragma once
 #include "SceneBase.h"
-#include "Vector2.h"
+#include "../Vector2.h"
 class Stage;
 class Player;
 class Blast;

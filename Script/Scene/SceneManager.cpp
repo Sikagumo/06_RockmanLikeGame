@@ -1,6 +1,6 @@
 #include <DxLib.h>
-#include "Application.h"
-#include "Fader.h"
+#include "../Application.h"
+#include "../Fader.h"
 #include "SceneBase.h"
 #include "TitleScene.h"
 #include "GameScene.h"

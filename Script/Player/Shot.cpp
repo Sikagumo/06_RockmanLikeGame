@@ -1,7 +1,7 @@
 /* --------
 @”­Ëˆ—
  ---------- */
-#include "GameScene.h"
+#include "../Scene/GameScene.h"
 #include "Blast.h"
 #include "Shot.h"
 #include <DxLib.h>

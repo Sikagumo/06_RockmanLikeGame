@@ -3,9 +3,9 @@
  ----------------- */
 
 #pragma once
-#include "Utility.h"
-#include "Vector2F.h"
-#include "Vector2.h"
+#include "../Utility.h"
+#include "../Vector2F.h"
+#include "../Vector2.h"
 class Shot;
 class GameScene;
 #include <vector>
